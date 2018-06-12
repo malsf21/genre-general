@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# genius API secrets
+access_token.txt
+
+# pulled lyrics (these files are huge!)
+lyrics/
+
+.DS_Store

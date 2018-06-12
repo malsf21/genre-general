@@ -1,0 +1,36 @@
+{
+	"genres": {
+		"pop": [
+			"Adele",
+			"Ariana Grande",
+			"Beyoncé",
+			"Bruno Mars",
+			"Carly Rae Jepsen",
+			"Ed Sheeran",
+			"Justin Bieber",
+			"Maroon 5",
+			"OneRepublic",
+			"Rihanna",
+			"Selena Gomez",
+			"Shawn Mendes",
+			"Sia",
+			"Taylor Swift"
+		],
+		"rap": [
+			"21 Savage",
+			"Big Sean",
+			"Chance The Rapper",
+			"Eminem",
+			"Future",
+			"Jay-Z",
+			"J. Cole",
+			"Lil Wayne",
+			"Logic",
+			"Kanye West",
+			"Kendrick Lamar",
+			"Migos",
+			"Pusha T",
+			"Rae Sremmurd"
+		]
+	}
+}
