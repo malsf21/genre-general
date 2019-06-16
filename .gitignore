@@ -108,5 +108,6 @@ access_token.txt
 
 # pulled lyrics (these files are huge!)
 lyrics/
+reports/
 
 .DS_Store
